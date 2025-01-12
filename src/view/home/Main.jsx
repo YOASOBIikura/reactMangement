@@ -1,7 +1,7 @@
 import {Card, Col, Row, Table} from "antd";
 import "./Main.sass"
 import {countData, echartData, tableColumns, tableData, userData, videoData} from "../../axios/data";
-import React, {useEffect} from "react";
+import React from "react";
 import * as Icon from "@ant-design/icons";
 import MyEcharts from "../../component/Echarts"
 

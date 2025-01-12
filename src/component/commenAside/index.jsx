@@ -3,7 +3,7 @@ import {Layout} from "antd";
 import * as Icon from '@ant-design/icons';
 import MenuConfig from "../../config"
 import React, {useEffect, useState} from "react";
-import {useLocation, useNavigate} from "react-router-dom";
+import {useLocation} from "react-router-dom";
 
 const {Sider} = Layout;
 const CommonAside = (props)=>{

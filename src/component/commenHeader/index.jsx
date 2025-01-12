@@ -1,5 +1,5 @@
 import {Button, Dropdown} from "antd";
-import {MenuFoldOutlined, MenuUnfoldOutlined, SmileOutlined} from "@ant-design/icons";
+import {MenuFoldOutlined, MenuUnfoldOutlined} from "@ant-design/icons";
 import {Layout} from "antd";
 import Avatar from "antd/es/avatar/avatar";
 const {Header} = Layout;

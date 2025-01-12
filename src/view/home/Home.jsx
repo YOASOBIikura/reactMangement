@@ -3,7 +3,6 @@ import {useEffect, useState} from "react";
 import CommonAside from "../../component/commenAside";
 import CommonHeader from "../../component/commenHeader";
 import {Outlet, useNavigate} from "react-router-dom";
-import {getUsers} from "../../axios/api";
 const {  Content } = Layout;
 
 const Home = ()=> {
