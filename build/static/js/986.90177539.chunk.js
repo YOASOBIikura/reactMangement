@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[986],{1605:(e,s,t)=>{t.r(s),t.d(s,{default:()=>i});var a=t(6491),n=t(5206),r=(t(5426),t(3216)),c=t(579);const i=()=>{const e=(0,r.Zp)();return(0,c.jsx)(c.Fragment,{children:(0,c.jsx)("div",{className:"pageOne",children:(0,c.jsx)(a.Ay,{status:"500",title:"500",subTitle:"Sorry, something went wrong.",extra:(0,c.jsx)(n.Ay,{type:"primary",onClick:()=>{e("/main")},children:"Back Home"})})})})}},5426:()=>{}}]);
+//# sourceMappingURL=986.90177539.chunk.js.map

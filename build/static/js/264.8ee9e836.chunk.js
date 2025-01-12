@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[264],{1264:(e,s,t)=>{t.r(s),t.d(s,{default:()=>p});var a=t(6491),r=t(5206),i=(t(5426),t(3216)),n=t(579);const p=()=>{const e=(0,i.Zp)();return(0,n.jsx)(n.Fragment,{children:(0,n.jsx)("div",{className:"pageOne",children:(0,n.jsx)(a.Ay,{status:"404",title:"404",subTitle:"Sorry, the page you visited does not exist.",extra:(0,n.jsx)(r.Ay,{type:"primary",onClick:()=>{e("/main")},children:"Back Home"})})})})}},5426:()=>{}}]);
+//# sourceMappingURL=264.8ee9e836.chunk.js.map
